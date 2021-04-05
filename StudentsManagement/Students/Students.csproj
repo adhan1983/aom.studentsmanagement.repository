@@ -2,9 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>05a233eb-398c-4485-ab0f-dc6ea8dfd51f</UserSecretsId>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>    
+    <UserSecretsId>dde05bf0-35d8-45d1-be9c-03c7bf0d58e7</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
   </ItemGroup>
